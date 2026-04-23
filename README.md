@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Advanced-FastAPI-Application-(End-to-End)
 
 ## Project Overview
@@ -267,6 +267,4 @@ This project demonstrates:
 * Real-world application structure
 
 ---
-=======
-# Advanced-FastAPI-Application-End-to-End-
->>>>>>> 29a0bdb8829050039437d487e6d6ff27f69a8468
+
